@@ -8,4 +8,4 @@ Model: [google.ca](https://www.google.ca/)
 Clone: [GoogleClone](https://clone-5ebd8.web.app/)
 
 
-
+![](/public/clone.gif)
